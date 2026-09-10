@@ -8,7 +8,7 @@ Unity has become a cornerstone of XR development because it combines **ease of u
 
 **Key Advantages:**
 
-* Compatible with [almost every system](https://docs.unity3d.com/6000.2/Documentation/Manual/PlatformSpecific.html): **consoles, mobile devices, smart glasses, and VR headsets**.
+* Compatible with [almost every system](https://docs.unity3d.com/6000.6/Documentation/Manual/PlatformSpecific.html): **consoles, mobile devices, smart glasses, and VR headsets**.
 * A **massive** [**Asset Store**](https://assetstore.unity.com/) offers thousands of ready-to-use models, scripts, shaders, and plugins.
 * Native support for **VR and AR** through the [**AR Foundation**](https://unity.com/unity/features/arfoundation) , [MARS](https://unity.com/products/unity-mars) (authoring system) and [**XR Interaction Toolkit**](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@3.0/manual/index.html).
 * According to Unity Technologies, **95% of VR/AR content** is developed using Unity.
