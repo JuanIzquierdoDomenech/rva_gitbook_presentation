@@ -34,7 +34,7 @@ Unity is a tool that is updated very frequently to keep up with the latest techn
 
 **Unity Hub** is the Unity version manager that we need to install in order to install any version of Unity (e.g., Archive, LTS...) as well as the templates it may offer us.
 
-<figure><img src=".gitbook/assets/unity_hub.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/unity_hub_new.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://unity.com/download#how-get-started" %}
 
