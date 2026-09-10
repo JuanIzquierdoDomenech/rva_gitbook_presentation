@@ -4,10 +4,10 @@
 
 #### Core Features:
 
-* **Motion Tracking** – understands the device’s position relative to the world.
-* **Environmental Understanding** – detects flat surfaces and planes.
-* **Light Estimation** – adjusts lighting of virtual objects to match real-world conditions.
-* **Cloud Anchors** – enables persistent and shared AR experiences.
+* **Motion Tracking**: understands the device’s position relative to the world.
+* **Environmental Understanding**: detects flat surfaces and planes.
+* **Light Estimation**: adjusts lighting of virtual objects to match real-world conditions.
+* **Cloud Anchors**: enables persistent and shared AR experiences.
 
 By integrating **ARCore** with **Unity**, developers can create cross-platform AR applications that behave consistently across Android and iOS.
 

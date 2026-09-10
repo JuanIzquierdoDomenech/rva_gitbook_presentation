@@ -4,12 +4,12 @@
 
 #### Features of ARKit:
 
-* **People Occlusion** – enables real-world humans to naturally block virtual objects.
-* **Motion Capture** – real-time body tracking.
-* **Simultaneous Front & Back Camera** – allows dual video input for mixed scenes.
-* **Collaborative Sessions** – multiple users share synchronized AR sessions.
-* **Multiple Face Tracking** – supports more than one face simultaneously.
-* **Advanced Improvements** – including plane detection and lighting estimation.
+* **People Occlusion**: enables real-world humans to naturally block virtual objects.
+* **Motion Capture**: real-time body tracking.
+* **Simultaneous Front & Back Camera**: allows dual video input for mixed scenes.
+* **Collaborative Sessions**: multiple users share synchronized AR sessions.
+* **Multiple Face Tracking**: supports more than one face simultaneously.
+* **Advanced Improvements**: including plane detection and lighting estimation.
 
 These features make ARKit ideal for high-quality, interactive AR experiences in the Apple ecosystem.
 
