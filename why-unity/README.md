@@ -23,8 +23,8 @@ Unity provides built-in packages for both **VR** and **AR** development under th
 
 The **AR Foundation** package abstracts device-specific implementations, allowing a single project to target multiple platforms such as iOS (ARKit), Android (ARCore), and HoloLens.
 
-{% embed url="https://docs.unity3d.com/6000.2/Documentation/Manual/AROverview.html" %}
+{% embed url="https://docs.unity3d.com/6000.6/Documentation/Manual/AROverview.html" %}
 
-{% embed url="https://docs.unity3d.com/6000.2/Documentation/Manual/VROverview.html" %}
+{% embed url="https://docs.unity3d.com/6000.6/Documentation/Manual/VROverview.html" %}
 
 <figure><img src="../.gitbook/assets/unity_capabilities_table.png" alt=""><figcaption><p>Feature table per platform</p></figcaption></figure>
