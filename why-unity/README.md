@@ -19,10 +19,9 @@ Unity allows developers to manage all XR components (physics, rendering, UI, and
 
 ## Unity for XR: Cross-Platform Development
 
-Unity provides built-in packages for both **VR** and **AR** development under the same codebase.\
-The **AR Foundation** package abstracts device-specific implementations, allowing a single project to target multiple platforms such as iOS (ARKit), Android (ARCore), and HoloLens.
+Unity provides built-in packages for both **VR** and **AR** development under the same codebase.
 
->
+The **AR Foundation** package abstracts device-specific implementations, allowing a single project to target multiple platforms such as iOS (ARKit), Android (ARCore), and HoloLens.
 
 {% embed url="https://docs.unity3d.com/6000.2/Documentation/Manual/AROverview.html" %}
 
